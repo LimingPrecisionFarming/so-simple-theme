@@ -1,6 +1,7 @@
 ---
+author: Ingmardo Mendosa
 layout: post
-title: "A Post with Images"
+title: "A Post with Images from Ingmardo"
 excerpt: "Examples and code for displaying images in posts."
 categories: articles
 tags: [sample-post, images, test]
