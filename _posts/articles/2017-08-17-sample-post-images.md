@@ -1,5 +1,5 @@
 ---
-author: Ingmardo Mendosa
+author: ingmardo_mendosa
 layout: post
 title: "A Post with Images from Ingmardo"
 excerpt: "Examples and code for displaying images in posts."
