@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: pH-Brandenburg 
 locale: en_US
 description: Lime for healthy soils - Push precision farming.
 logo: site-logo.png
@@ -36,9 +36,9 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Ingmardo Dos Silva
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  email: ingmardo@mustermann.com
   disqus-shortname: sosimpletheme
   twitter: mmistakes
   facebook: michaelrose
