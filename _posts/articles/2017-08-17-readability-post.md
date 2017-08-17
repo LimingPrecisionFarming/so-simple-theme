@@ -3,7 +3,7 @@ layout: post
 title: "Sensorbefahrung in BB"
 excerpt: "This is a test."
 categories: articles
-tags: [sample-post, readability, test, intro]
+tags: [Feldversuche, Referenzprobenstrategie, AP7]
 image:
   feature: rain-drops_2.jpg
   credit: Ingmardo
