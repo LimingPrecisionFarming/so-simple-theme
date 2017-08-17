@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: pH-Brandenburg 
+title: pH-BB - Präzise Kalkung in Brandenburg 
 locale: en_US
-description: Lime for healthy soils - Push precision farming.
+description: Ein EIP-Agrar Projekt zur Verbesserung der landwirtschaftlichen Produktivität und Nachhaltigkeit. 
 logo: pH-BB.png
 url: https://limingprecisionfarming.github.io/soil-lovers/
 
@@ -37,7 +37,7 @@ comments: true
 # Site owner
 owner:
   name: Ingmardo Dos Silva
-  avatar: michael-rose-photo.jpg
+  avatar: 
   email: ingmardo@mustermann.com
   disqus-shortname: sosimpletheme
   github: LimingPrecisionFarming
