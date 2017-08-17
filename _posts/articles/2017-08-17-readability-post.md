@@ -5,7 +5,7 @@ excerpt: "This is a test."
 categories: articles
 tags: [Feldversuche, Referenzprobenstrategie, AP7]
 image:
-  feature: rain-drops_2.jpg
+  feature: rain-drop-small.jpg
   credit: Ingmardo
   creditlink: http://freemymind.de/
 comments: true
