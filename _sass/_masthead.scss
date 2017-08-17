@@ -45,13 +45,13 @@
     @include media($medium) {
       width: 150px;
       height: 150px;
-      @include rounded(15px); /* crops in a circle */
+    /*  @include rounded(15px); /* crops in a circle */
     }
 
     @include media($large) {
       width: 200px;
       height: 200px;
-      @include rounded(20px); /* 200px crops in a circle */
+     /*@include rounded(20px); /* 200px crops in a circle */
     }
   }
 }
