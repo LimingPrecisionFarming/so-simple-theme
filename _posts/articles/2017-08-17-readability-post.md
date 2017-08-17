@@ -5,7 +5,7 @@ excerpt: "This is a test."
 categories: articles
 tags: [sample-post, readability, test, intro]
 image:
-  feature:  	window-rain-drops.jpg
+  feature:  	rain-drops_2.jpg
   credit: Ingmardo
   creditlink: http://freemymind.de/
 comments: true
