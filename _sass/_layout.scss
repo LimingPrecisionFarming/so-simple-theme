@@ -197,7 +197,6 @@ body {
 .entry-feature-image {
 	margin: 20px 0 0;
 	width: 50%; // width: 100%;
-  height: auto;
   @include media($medium) {
 		margin-top: -75px;
 	}
